@@ -1,0 +1,52 @@
+.organ-key {
+  width: 50px;
+  height: 200px;
+  border: 1px solid gray;
+  text-align: center;
+  line-height: 200px;
+  float: left;
+  transition: background-color 0.25s;
+}
+
+.organ {
+  width: 420px;
+}
+
+.hidden {
+  display:none;
+}
+.key-pressed {
+  background: gainsboro;
+}
+
+.key-0 {
+  background: #7FFFD4;
+}
+
+.key-1 {
+  background: #FF7F50;
+}
+
+.key-2 {
+  background: #F5F5DC;
+}
+
+.key-3 {
+  background: #1E90FF;
+}
+
+.key-4 {
+  background: #FFC0CB;
+}
+
+.key-5 {
+  background: #B0C4DE;
+}
+
+.key-6 {
+  background: #EEE8AA;
+}
+
+.key-7 {
+  background: #7FFFD4;
+}
